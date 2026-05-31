@@ -4,7 +4,7 @@ Software engineer with three years of experience — primarily frontend (React, 
 
 Currently at Genuin Codebase, working on a Module Federation micro-frontend shell, a 60+ component design system, and embeddable SDKs (video, reel feed, AI chat) running on publishers like iHeart Media, TED, and Indian Express — collectively serving millions of page views a month.
 
-Based in Ahmedabad. More at [devtejot.dev](https://devtejot.dev).
+Based in Ahmedabad. More at [devtejot.dev](https://devtejot.vercel.app/).
 
 ## Selected work
 
@@ -28,4 +28,4 @@ Based in Ahmedabad. More at [devtejot.dev](https://devtejot.dev).
 
 ## Elsewhere
 
-[Portfolio](https://devtejot.dev) · [LinkedIn](https://www.linkedin.com/in/dev-tejot/) · devtejot@gmail.com
+[Portfolio](https://devtejot.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/dev-tejot/) · devtejot@gmail.com
